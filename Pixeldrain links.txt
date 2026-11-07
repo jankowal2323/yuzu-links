@@ -1,0 +1,1230 @@
+How to use the pastebin:
+
+ctrl + f this document if you want to find something in here. (Android: https://pixeldrain.com/u/TkTAhZnG)
+
+Or 
+
+Scroll all the way down, Click the copy button right next to the “raw paste data”
+Open either Microsoft word or Google docs
+Ctrl + V or right click, paste it in
+
+All links should become blue now :) 
+Ctrl + f works in Google docs / Microsoft word
+
+
+If your friend can’t assess this pastebin, their antivirus / VPN / isp is blocking this pastebin.
+
+My donation box:
+Tanyuliang9@gmail.com on PayPal
+
+Other rom sites:
+https://fmhy.net/gaming#rom-sites
+
+gba games:
+https://gofile.io/d/WfkYJi
+
+Emulator setup tutorial: 
+
+https://m.youtube.com/playlist?list=PL-CtCy9zQOPb1Ps4_nC000CdafPCQlcEk
+
+https://docs.google.com/document/d/10Jjn4G46mOh5bd56xFCVuEJZ5Qc5LA_pTqnDmwzGttg/
+
+Scroll all the way to the bottom for more switch sites that contain switch roms!
+
+I recommend clicking on the gofile.io links if available, as they have way faster downloads and also no stupid 6GB limit that pixeldrain imposes. (I mean, you came here not to hoard everything in here without giving anything back, right? (As a free Google drive folder)) also, not all games have gofile.io links as those games have less demand then the ones with gofile links, so they expire quickly)(I know that some vpn configurations and kaspersky keeps blocking gofile.io so use pixeldrain
+
+let me know on liangforstudy@gmail.com if you still need help/report broken links
+
+Pixeldrain bypass (they seem to work for the first 5GB only...)
+either use https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass script or change https://pixeldrain.com/u/ to https://pd.cybar.xyz/
+how it works is it uses pixeldrain's servers directly
+the limit bypass is based on pixeldrain.com
+while the downloads are on cdn.pd7.workers.dev/api/file
+https://pixeldrain-bypass.cybar.xyz/
+
+## 404 website not found/can't connect:
+If you see this pastebin for the first time, and the Pixeldrain links are down, it's very likely your government blocked Pixeldrain. (e.g. Italy, Spain, India, Philippines) 
+If that's the case or if you are unsure, check out this guide if you are affected and how to fix it. https://www.reddit.com/r/PixelDrain/comments/pu5ctt/accessing_pixeldrain_if_it_is_blocked_in_your/
+
+Alternatively, you can use a VPN like Proton VPN to access Pixeldrain links. https://protonvpn.com/ (You will need to create an Account first)
+
+
+### how to do part files:
+- install WinRAR (Google it, don't be lazy)
+- Download all parts, 
+### For windows 10: 
+(right click the first part file --> extract here) 
+### For Windows 11:
+(right click the first part file --> show more options --> extract here)
+
+
+
+## Pokemon scarlet and violet (BaseGame)
+https://gofile.io/d/Zv5pDN - BaseGame 
+
+https://pixeldrain.com/l/1rLBvmTS#item=0 - Scarlet v3.0.1
+https://pixeldrain.com/l/1rLBvmTS#item=1 - Violet v3.0.1 
+
+https://pixeldrain.com/l/1rLBvmTS - All 2 files above
+
+
+2 DLCs for update 3.0.1 (Teal mask + Indigo disk + uniform set):
+https://drive.google.com/drive/folders/1esE-1_QiDz4ZYvKPn67gMNkQt4vCak4z
+
+https://pixeldrain.com/u/wo8RqWcx - scarlet DLC
+https://pixeldrain.com/u/mYcD5ZkE - Violet DLC
+
+(If you only get the uniform, make sure you also get update 3.0.1)
+
+Old:
+Pokemon scarlet:
+https://drive.google.com/file/d/1r9o6UsdsgHH_CEm0DkyPUP--qp9LA4YF/
+Pokemon violet:
+https://drive.google.com/file/d/1YKCqcEzOGnwxk8iyZPs2d66PIv-R1cjr/
+
+BaseGame .xci for Pokemon Violet:
+https://pixeldrain.com/u/aom5Cv9e
+
+
+
+If the above dlc don't work, try this (from nxbrew.net):
+https://pixeldrain.com/l/RK7afwz9
+
+(Note: please remove the old uniform DLC that you have before updating this dlc. You will still keep your uniform when updating dlc.
+
+Update 1.3.2 [v393216]:
+Scarlet
+https://pixeldrain.com/u/MCmhJ8vE
+Violet
+https://pixeldrain.com/u/w4RedNsN
+
+Update 1.3.1 [v327680]: 
+Scarlet:
+https://mega.nz/file/AAdRjbiC#qgljejmFFy8J74izC2JKmN6Lf23INgse7P_zLoBbGAU
+Violet:
+[Deleted by Nintendo]
+
+Update 1.2.0 [v196608]:
+Scarlet
+https://pixeldrain.com/u/RaCTG4cr
+Violet
+https://pixeldrain.com/u/xEERjseu
+
+Update 1.1.0 [v131072]:
+Scarlet
+https://pixeldrain.com/u/hAb6W9uf
+Violet
+https://pixeldrain.com/u/psQHweUA
+
+Gym Psychic/Water (4th) Gym Crash fix:
+https://youtu.be/349aKC-qQP0
+
+
+Pokemon sword:
+To install the dlcs, download all 3 files: (BaseGame + Update + 2DLCs)
+
+https://drive.google.com/drive/u/3/folders/1M7Px1yf-DUZ_eTTMJbOjzQmDXBi5bRiv - BaseGame + Update + 2DLCs
+
+https://gofile.io/d/42PxF9 - sword xci
+
+https://pixeldrain.com/u/kQZb7tzT - Pokemon Sword XCI
+https://pixeldrain.com/u/pjX9adkf - Pokemon Sword (Update 1.3.2)
+
+https://drive.google.com/drive/folders/1uDMivmVjQUhlXZbuCkqlLTB65-2RE5CA - 2 DLCs
+
+Or:
+
+DLC 1:
+https://cdn.discordapp.com/attachments/1104410799751041114/1109079873546371182/Pokemon_Sword_The_Isle_of_Armor0100ABF008969001USv0.nsp
+DLC 2:
+https://cdn.discordapp.com/attachments/1104410799751041114/1109079873101758474/Pokemon_Sword_The_Crown_Tundra0100ABF008969002USv0.nsp
+(paste them into discord for it to work.)
+
+Pokemon shield:
+
+https://pixeldrain.com/u/REkutbqs - BaseGame - link 2 
+https://pixeldrain.com/u/Z7ms8GQu - update 1.3.2
+https://pixeldrain.com/u/njKzyHkG - DLC
+https://mega.nz/file/sc1XWYzb#ihRxizeph5gGVdwT2d7VFv-JTwkjbBPGn_SnRU5T5kE - DLC - Link 2
+
+https://pixeldrain.com/u/jno1N6ew - part 1
+https://pixeldrain.com/u/2KUYLQyn - part 2
+
+Pokemon sword stuck in ice gym, freezes at 0 fps:
+
+Transfer save to Pokemon shield, works for them:
+
+https://www.reddit.com/r/yuzu/s/lsEFZwBHJJ
+
+https://pixeldrain.com/u/rqFmUGZ6 - pokemon sword save file for keyboard fix (English save)
+
+Pokemon legends Arceus PLa
+BaseGame:
+https://gofile.io/d/wRZd1j - nsp - recommended 
+https://pixeldrain.com/u/8UbAVv3e - nsp - Link 2
+
+https://pixeldrain.com/u/Xmxq1HeM - xci
+
+Update 1.1.1
+https://gofile.io/d/VBd0qd
+
+**Update 1.0.1 only**
+https://drive.google.com/file/d/1zS2ckA71elU_eqXcaYYYjAJk-u3ckVlj/view?usp=sharing
+
+
+https://pixeldrain.com/u/FN62ci9e Pokémon Let’s Go, Pikachu! (NSP)(Base Game).rar
+https://pixeldrain.com/u/BoevdGDZ Pokémon Let’s Go, Eevee! (NSP)(Base Game).rar
+
+https://pixeldrain.com/u/rB47iKvd Pokémon Let’s Go, Pikachu! (NSP)(Update 1.0.2).rar
+https://pixeldrain.com/u/RK2p6JTW Pokémon Let’s Go, Eevee! (NSP)(Update 1.0.2).rar
+
+https://pixeldrain.com/l/4EBckeYx All 4 files
+
+**Pokemon Lets Go Pikachu**
+https://pixeldrain.com/u/FN62ci9e
+https://frdl.io/x2qzcg43zk3u/Pokmon_Let%C3%A2%E2%82%AC%E2%84%A2s_Go,_Pikachu!_(NSP)(eShop).rar.html
+**Update 1.0.2 only**
+https://pixeldrain.com/u/rB47iKvd
+
+**Pokemon Lets Go Eevee**
+https://pixeldrain.com/u/BoevdGDZ
+**Update 1.0.2**
+https://pixeldrain.com/u/RK2p6JTW 
+
+
+Pokemon Brilliant Diamond
+https://gofile.io/d/J69MIF (BaseGame - Link 1)
+https://pixeldrain.com/u/yMHkTwdP (BaseGame) Link 2
+https://pixeldrain.com/u/2AJ5Mu4q Update 1.3.0
+
+Pokemon Shining Pearl
+https://pixeldrain.com/u/kbQSbp2z (.XCI)
+https://pixeldrain.com/u/RCuQuXHc (BaseGame, recommended for emulators and hacked switch)
+https://pixeldrain.com/u/r4jgAHdy (Update 1.3.0)
+https://1fichier.com/?z2j0hk270n91j1dohg5c (BaseGame)
+https://1fichier.com/?a4ulvk5thnl32jmzywos (Update 1.3.0)
+
+[Pokemon brilliant diamond shining pearl] Old updates:
+https://pixeldrain.com/l/NB42v1Qf
+
+Or use these if they don't work:
+
+How to read:
+format:
+pixeldrain link, file name (the last digit(s)), version number
+
+series 6Lgt2xboey - Diamond 
+https://pixeldrain.com/l/NB42v1Qf#item=0 1.1.0
+https://pixeldrain.com/u/j2pUxcdM  c 1.1.1
+https://pixeldrain.com/u/ryYnAjV6  d 1.1.2
+https://pixeldrain.com/u/BBdeXmPg  e 1.1.3
+https://pixeldrain.com/u/9zzLnHwg  f 1.2.0
+Password: 
+5PzKP9cTMzwn6waYFCpr
+
+series 7EeWpOTsGb - Pearl
+https://pixeldrain.com/l/NB42v1Qf#item=2 1.1.0
+https://pixeldrain.com/u/L5ykSiS6  43 1.1.1
+https://pixeldrain.com/l/NB42v1Qf#item=3  44 1.1.2
+https://pixeldrain.com/u/WywVsn6o  46 1.2.0
+Password: 
+mQvnBK05Sx3JauosrGmh
+
+If they go down, or if you are having trouble extracting the parts, email me at
+liangforstudy@gmail.com or join my discord https://discord.gg/Tp9bfmkf4D
+
+Pokemon za pokemon legends ZA:
+https://docs.google.com/document/d/1-WY8GR10qavfnmLQCHvWW6cp8dnkpnsIaJ3yaSdKndU/edit?usp=drivesdk
+or
+https://paste.gg/p/Bluetails/32956e2ccb8b4e9dae92e9411e40019e (read line 12 if you can’t access, or is temporary down, idk)
+
+Pokopia:
+Switch 2 Exclusive game. Nobody manages to hack the console, get the game, and play it on their emulator. Don’t google for it, you will only get viruses.
+
+Mystery Dungeon Rescue team DX:
+https://pixeldrain.com/u/mV6WQRFY - BaseGame
+https://pixeldrain.com/u/bWWA3Mb4 - Update 1.0.2
+
+https://pixeldrain.com/l/rMvDDF6J - All 2 files
+
+
+https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/
+
+TOTK: (Nintendo is after these so u better hurry)
+
+My files are NEVER Called “Zippy” and “all downloaded files” or "lnstaIer.exe"!! If you get them, delete them immediately! The full totk game should be ~16GB in size! And I’ll Never Ever let you download an installer to download the game!! The full totk game should be ~16GB in size! 
+
+https://buzzheavier.com/v2w71puwpmeu - xci
+https://buzzheavier.com/773mx1ziqvc2 - nsp
+
+(For pixeldrain links, you can download the entire thing. is just that after 6GB, the transfer speed is limited to about 1024kbps. Unlike what the website is saying)
+
+https://pixeldrain.com/u/B3ZBPd5c - nsp
+https://pixeldrain.com/u/jNU6Myic - XCI
+
+Or download in parts:
+
+Part files tutorial: https://docs.google.com/document/d/12wngGTRFi_rBNMrJt0AfAySb58Bwd0HFyRVOS7q1-uQ/edit?usp=drivesdk
+
+V Use ublock origin v
+
+https://megaup.net/1ex56/The_Legend_of_Zelda_Tears_of_the_Kingdom_(NSP)(eShop).part1.rar - Part 1
+https://megaup.net/1ex5g/The_Legend_of_Zelda_Tears_of_the_Kingdom_(NSP)(eShop).part2.rar - Part 2
+https://megaup.net/1UuxV/The_Legend_of_Zelda_Tears_of_the_Kingdom_(NSP)(eShop).part3.rar - Part 3
+https://megaup.net/1ex6q/The_Legend_of_Zelda_Tears_of_the_Kingdom_(NSP)(eShop).part4.rar - Part 4
+
+^ Use ublock origin ^
+
+If u get a 1mb .exe that’s s not it! Also, decline when prompted to allow notification, it is a virus!
+
+If you want an even faster download speed and have experience with torrents, fitgirl-repacks.site has tears of the kingdom. After installing fitgirl”s totk, You then have to extract the base game using my guide if you want to add updates to it (or use a difference emulator like eden for updates 1.4.x and higher) https://pastebin.com/fn81axK6 if you want to use it on emulators like Eden and ryujinx
+
+Update 1.4.3 [v720896] (for eden and ryubing and citron)
+https://rootz.so/d/1uSPXU
+https://pixeldrain.com/u/LATxRB8H
+https://megaup.net/7651f1c5823db6fbea47ee30678add87/TLOZ-TOTK-(US)-NSwTcH-NSP-Update143-Ziperto.rar
+
+Update 1.4.2 [v655360]
+https://rootz.so/d/5Mbmi
+https://pixeldrain.com/u/76vN2vQE
+https://megaup.net/17b564f0e5fc29622f38b656a37f96b8/TLOZ-TOTK-(US)-NSwTcH-NSP-Update142-Ziperto.rar 
+
+ziperto.com nxbrew.net if they go down (use the megaup links, use ublock origin to block ads)
+
+Update 1.2.1 (for yuzu, Yuzu EA, Suyu, Sudanchi, Ryujinx)
+https://buzzheavier.com/vedyyc9cz40f 
+https://pixeldrain.com/u/rxhqrsb2
+https://megaup.net/ea53d9295029fd48538c566411cfa734/TLOZ-TOTK-(USA)-NSwTcH-NSP-Update121-Ziperto.rar (use ublock origin to block ads)
+
+1.2.0:
+https://pixeldrain.com/u/LdwaoKmt
+
+1.1.2:
+https://pixeldrain.com/u/hd3rxriy
+
+(Update is optional, I think, if you want to dupe items, please check youtube / Reddit and download the corresponding update)
+
+Save file: "completed the four temples, no fifth dungeon. Full map and depths"
+https://mega.nz/file/NElk2IIS#KbEYJLq8weB7E5Z2rXP-GyZVlQlSdYUwvz02RGR3Ee0
+
+TOTK collectors edition artbook: 
+https://pixeldrain.com/u/4pv8QTyW
+https://archive.org/details/totk-artbook
+
+Older totk updates:
+https://gofile.io/d/f5MRHX - Update 1.2.0 / 1.1.1 / 1.1.0
+
+update: 1.2.0:
+https://pixeldrain.com/u/SNACD63Q
+
+update 1.1.1:
+https://pixeldrain.com/u/VjdkZ1BE
+
+update 1.1.0:
+https://pixeldrain.com/u/JW2Um21N
+
+TOTK Yuzu Shader cache for v1.2.0 (NOT RECOMMENDED, Might cause more issues then you actually think, but people keep asking for it so here it is)
+https://pixeldrain.com/u/x5sxGQmR
+
+(7 HR download ganen doof with link dancing version) https://archive.org/download/TOTK_nsp/TOTK.nsp (not recommended)
+https://www.reddit.com/r/yuzuRoms/s/RX2ejsAfZ9
+
+
+
+Botw Camel beast dungeon crash fix:
+
+I have a corrupted copy. Please scroll all the way down and try the sites there to get a working copy (I recommend ziperto.com)
+
+If you do not want this. Email me and I’ll give you a copy to test it out yourself
+
+Botw, totk horse stable crash fix:
+
+Right click game, Options > Settings > System > then set Ignore missing services to on
+
+
+## Zelda breath of the wild BOTW cemu
+https://pixeldrain.com/u/GCsKGpgp -  Basegame
+https://pixeldrain.com/u/qyD6JLqa Zelda BOTW cemu loadiine (DLC) (USA) (extract here).zip
+https://pixeldrain.com/u/gX8TyrhL Zelda Botw cemu Update v1.5.0 (v208) (Extract here).zip
+
+https://pixeldrain.com/l/DVgW8wFQ All 2 files
+
+
+## Zelda breath of the wild botw for switch emulators/ hack switch
+
+Link 1: https://gofile.io/d/GbaBBV (.nsp)
+Link 2: https://pixeldrain.com/u/j9Fh9o9k The Legend of Zelda Breath of the Wild[01007EF00011E000][US][v0].nsp
+
+Or in parts:
+https://pixeldrain.com/u/T5i8R2Jg The Legend of Zelda Breath of the Wild[01007EF00011E000][US][v0].7z.001
+https://pixeldrain.com/u/o6U8mpAa The Legend of Zelda Breath of the Wild[01007EF00011E000][US][v0].7z.002
+https://pixeldrain.com/u/5W1hjEWr The Legend of Zelda Breath of the Wild[01007EF00011E000][US][v0].7z.003
+
+https://pixeldrain.com/l/yD5WsR3P All 3 files above 
+
+Update 1.6.0:
+https://gofile.io/d/9LOw9W
+https://pixeldrain.com/u/ujpRt6RP The Legend of Zelda Breath of the Wild (Update 1.6.0)[01007EF00011E800][US][v786432].zip
+
+2 DLCs:
+https://gofile.io/d/aVvB3d
+https://pixeldrain.com/u/HHVZ9fcN The Legend of Zelda Breath of the Wild (NSP)(2 DLCs).zip
+
+https://pixeldrain.com/l/ksVFauWd All 2 files above
+
+60 fps / fps unlocker patch : https://github.com/yuzu-mirror/yuzu-mod-archive (again, ctrl + f for “breath of the wild”)
+
+Or
+
+https://www.reddit.com/r/EdenEmulator/s/9vfLMLqhm0
+
+
+## Legend of Zelda: Echoes of wisdom 
+(Require 18.1.0 keys)
+**[XCI]**
+https://pixeldrain.com/u/FzLT9Y1B
+**[NSP]**
+https://pixeldrain.com/u/JvKUrCjs
+**Update 1.0.2**
+https://pixeldrain.com/u/e9aFybAd
+
+For hacked switch:
+Install via dbi, (not tinfoil) 
+that's due to invalid signature and hash
+
+
+
+## Legend of Zelda Link's awakening 
+https://gofile.io/d/qKxrPj
+https://pixeldrain.com/u/ixzGbD2F - BaseGame
+https://pixeldrain.com/u/VAao7etm - Update 1.0.1
+
+https://pixeldrain.com/u/aT5qX5YK Link's awakening 60fps mod for update 1.0.1
+
+Zelda Skyward sword HD:
+https://pixeldrain.com/u/NnEBhvRZ
+
+Hyrule warriors age of imprisonment:
+Switch 2 Exclusive game. Nobody manages to hack the console, get the game, and play it on their emulator. Don’t google for it, you will only get viruses.
+
+
+Mario Kart 8 Deluxe base game: https://gofile.io/d/qBmQyV3R
+
+Mario kart 8 Update 3.0.3
+https://pixeldrain.com/u/pvHxMHkR
+
+Wave 1-6 unlocker:
+https://pixeldrain.com/u/5jAup8Fd
+
+
+Update 2.2.1
+https://pixeldrain.com/u/YvPehMzm
+
+Update 2.2.0:
+https://pixeldrain.com/u/ELZtwwnC
+
+
+
+Super Mario Odyssey (Download basegame first, update is optional)
+
+(BaseGame):
+https://gofile.io/d/LWUqfPoP - Try this first!
+https://pixeldrain.com/u/dxro77vT - Link 1 - Super Mario Odyssey [0100000000010000][v0].nsp
+
+(Update 1.3.0):
+https://gofile.io/d/LWUqfPoP
+https://pixeldrain.com/u/wPk2euRq
+
+
+Super Mario Wonder
+https://gofile.io/d/STagrV - Link 1
+https://pixeldrain.com/u/w5S1L67W - Link 2
+
+
+
+Super Mario 3D World + Browser fury
+https://gofile.io/d/QR5tXE
+https://pixeldrain.com/u/uPxh8Pf1
+
+Update v1.2.2
+https://pixeldrain.com/u/QREuntws
+
+
+
+Super Mario RPG
+https://gofile.io/d/uj5xIS
+https://pixeldrain.com/u/x9Wn4QMd
+
+Mario and Luigi Brothership
+https://buzzheavier.com/rlwsvdta5a1q
+https://pixeldrain.com/u/D78mw4iT
+
+https://pixeldrain.com/u/5kH9kYbj Paper Mario The Thousand-Year Door [BASE][0100ECD018EBE000][US][v0].nsp
+
+New Super Mario Bros U Deluxe (NSP)(Base Game).rar
+https://pixeldrain.com/u/BzJm7mqo
+
+Super Mario Party Update [010036B0034E4800][US][v65536].nsp (Update)
+https://pixeldrain.com/u/1XCtc7sk
+
+
+https://pixeldrain.com/u/7CXMVxqG Mario Party Superstars[01006FE013472000][US][v0].nsp
+https://pixeldrain.com/u/cikB3NVw Mario Party Superstars (Update 1.1.1)[01006FE013472800][v131072].nsp
+
+https://pixeldrain.com/l/frm5YZGt All 2 files
+
+
+https://pixeldrain.com/u/c7jHtHtH - Super Mario Party Jamboree (BaseGame)
+https://pixeldrain.com/u/H6nqKUgv - Super Mario Party Jamboree (Update v1.1.0)
+
+Mario Golf Super Rush
+https://pixeldrain.com/l/iYiR5KFX
+
+
+Donkey kong Bananza:
+Switch 2 Exclusive game. Nobody manages to hack the console, get the game, and play it on their emulator. Don’t google for it, you will only get viruses.
+
+## princess peach showtime
+https://nxbrew.net/princess-peach-showtime-switch-nsp-eshop/
+https://pixeldrain.com/u/xjBvCZRo
+
+Demo only:
+https://1fichier.com/?93w6e00uavhsmu5g1suw
+
+Use ryujinx/suyu/sudachi emulator, wouldn't boot on yuzu/yuzu ea, also, I heard that game is kinda buggy on switch emulators, so better buy the real thing for the best experience!
+
+Fps cutscene fix:
+https://www.reddit.com/r/128bitbay/s/zW8yKHAhmw
+
+Luigi’s mansion 2&3
+https://gofile.io/d/y1ug5Hxu
+
+## Luigi's mansion 3
+https://pixeldrain.com/u/8Ztr9osC
+
+## Luigi's mansion 2
+https://pixeldrain.com/u/zQhhfxGp Luigis Mansion 2 HD[010048701995E000][1.0.0][0][17.0.1].nsp
+
+https://pixeldrain.com/u/d3S1WFbc Mario + Rabbids Kingdom Battle [010067300059A000][v0].nsp
+https://pixeldrain.com/u/ZdQyXTkk Mario + Rabbids Kingdom Battle (Update 1.9.0) [010067300059A800][US][v589824].nsp
+https://pixeldrain.com/u/vNbcGSUP Mario + Rabbids Kingdom Battle (NSP)(US)(4DLCs).zip
+
+https://pixeldrain.com/l/7X2sZukk All 3 files
+
+
+
+## ACNH Animal Crossing New Horizons
+
+BaseGame.nsp
+https://pixeldrain.com/u/B3BHKadr - Link 1
+
+Update 3.0.3:
+https://gofile.io/d/h57yk0ll
+
+Update 3.0.2:
+https://pixeldrain.com/l/XSpq9iHL#item=0
+https://megaup.net/71ba8c96cc0849af6c703294569e89ec/AC-NH-NSwTcH-NSP-Update302-Ziperto.rar
+
+Update 3.0.1
+https://pixeldrain.com/l/XSpq9iHL#item=1
+https://megaup.net/0cad08c9132337f04a55afe33d0b8425/AC-NH-NSwTcH-NSP-Update301-Ziperto.rar
+
+Update 3.0.0 (Use latest ryujinx canary build!)
+https://pixeldrain.com/u/QWr6sp72 (Recommended)
+https://pixeldrain.com/u/dw2nRue1 (same as above but in a .rar)
+
+(use update 2.0.6 if not working and you don’t want to upgrade your emulator to ryubing / eden. That’s because yuzu, suyu and sudanchi don’t support this update)
+
+Update 2.0.8:
+https://pixeldrain.com/l/XSpq9iHL#item=3
+https://megaup.net/55318af2e1d6c2eab028196f3bd4eb54/AC-NH-NSwTcH-NSP-Update208-Ziperto.rar
+
+Update 2.0.7:
+https://pixeldrain.com/l/XSpq9iHL#item=4
+https://megaup.net/e2eaf750de696a7d06df35781a2685cf/AC-NH-NSwTcH-NSP-Update207-Ziperto.rar
+
+Update 2.0.7 / 2.0.8 (idk which one):
+https://send.now/uxz7v26vmxms - Link 1
+https://pixeldrain.com/u/dEkEc73b - Link 2
+
+Update 2.0.6:
+https://pixeldrain.com/u/Vs552Xm8 - Link 1
+
+Update 2.0.5:
+https://pixeldrain.com/l/XSpq9iHL#item=6 - Link 1
+https://megaup.net/12klf/AC-NH-NSwTcH-NSP-Update205-Ziperto.rar - Link 2
+
+Happy home paradise:
+https://pixeldrain.com/u/9nVEY77h 
+
+
+
+## Super Mario Maker 2
+https://pixeldrain.com/u/2ekn8P4R Super Mario Maker 2 [01009B90006DC000][v0][US].nsp
+https://pixeldrain.com/u/7o59u6ms Super Mario Maker 2 (Update 3.0.3)[01009B90006DC800][v458752][US].nsp
+https://pixeldrain.com/u/2LzwquYY Super Mario Maker 2 Custom Levels (Weeks).rar
+https://pixeldrain.com/u/JDJDCEv9 SMM2 course levels (Stages).zip
+
+https://pixeldrain.com/l/EZPFM4Ay All 4 files
+
+
+##
+https://pixeldrain.com/u/sqz4FJBn MARIO + RABBIDS SPARKS OF HOPE [0100317013770000][v0][US].nsp
+https://pixeldrain.com/u/YBaUpZCP Mario + Rabbids Sparks of Hope (Update 1.6.2225577)[0100317013770800][v393216].nsp
+https://pixeldrain.com/u/7GhVSfrX Mario + Rabbids Sparks of Hope [7 DLC Pack][USA].zip
+
+https://pixeldrain.com/l/Spaysici All 3 files
+
+https://pixeldrain.com/u/CmgdghbP Super Mario 3D All-Stars[010049900F546000][US][v0].nsp
+https://pixeldrain.com/u/G2rkjTjW Super Mario 3D All-Stars (Update 1.1.1)[010049900F546800][v196608].nsp
+
+https://pixeldrain.com/l/6yPjY8ZM All 2 files
+
+##  Super Smash bros Ultimate SSBU (includes update 13.0.2 for mods)
+Smash:
+https://pixeldrain.com/u/ZbxLr8NR - BaseGame
+Ziperto.com / Nxbrew.net - Update 13.0.4 (Eden, ryubing, Hacked switch with latest hats pack)
+
+https://pixeldrain.com/u/EC3TLrBz - Update 13.0.3 (Yuzu, yuzu EA, suyu, Sudachi)
+https://pixeldrain.com/u/GouR9uFz - 99 Updated DLCs (All DLCs including sora dlc)
+https://pixeldrain.com/u/kpECeMxq - Update 13.0.2
+https://pixeldrain.com/u/1vFKsbWh - Update 13.0.1
+
+**Super Smash bros DLC only**
+https://frdl.io/t56of3eru13j/Super_Smash_Bros_Ultimate_(NSP)(99_DLCs).rar.html
+
+All DLCs:
+https://pixeldrain.com/u/GouR9uFz
+
+DLC characters not appearing fix:
+Google for a full complete save file. Usually, you will need to play the game to unlock all characters. Email me if you would like to recommend me a site to put on this pastebin.
+
+-----------
+
+Splatoon 3
+
+https://pixeldrain.com/u/kWSBGNFh - xci
+https://gofile.io/d/Qn8Qo1rU - nsp - Link 1
+https://pixeldrain.com/u/XN55YGGg - nsp (requires an update to run)
+
+
+apparently there's an online check for side order after v7.0.0
+
+
+
+Splatoon 3 (Update 10.0.1)
+https://pixeldrain.com/u/6aeXctJD
+
+Update 9.1.0
+https://1fichier.com/?x4g77wk0nl92wovwm9be&af=1951572 - Part 1
+https://1fichier.com/?ichgwvs4dc5bg9ft886a&af=1951572 - Part 2
+
+Update 9.0.0 (Behind USD14.99 paywall),(if you are able to get hold of this, send it to me)
+https://rapidgator.net/file/dd1dd30cf71d87bcab054f9ae1908b63/SPLTOON3-(USA)-NSwTcH-NSP-Update900-Ziperto.part1.rar.html - Part 1
+https://rapidgator.net/file/acf9f2aed4eda054323d6d75fe6ad37c/SPLTOON3-(USA)-NSwTcH-NSP-Update900-Ziperto.part2.rar.html - Part 2
+
+Update 8.1.0
+https://1fichier.com/?4wpch3lg2emv4k8ep9ad&af=1951572 - Part 1
+https://1fichier.com/?sh9t3phtjrj1r9lzebz9&af=1951572 - Part 2
+
+Update 8.0.0 (Behind USD14.99 paywall),(if you are able to get hold of this, send it to me)
+https://rapidgator.net/file/d32434a85b797cc37fb5416e10393ad7/SPLTOON3-(USA)-NSwTcH-NSP-Update800-Ziperto.part1.rar.html - Part 1
+https://rapidgator.net/file/348fa423deb790b19471b406117bc4e8/SPLTOON3-(USA)-NSwTcH-NSP-Update800-Ziperto.part2.rar.html - Part 2
+
+apparently there's an online check for side order after v7.0.0
+
+## Splatoon 3 Update 7.0.0
+https://buzzheavier.com/wrsc97i8ukb7 - Link 1
+https://pixeldrain.com/u/1bSzb9nE - Link 2
+https://pixeldrain.com/u/uqAhYcTR - Link 3
+https://www.up-4ever.net/tlqrnf8a6x16 - Link 4
+
+Update 6.1.0
+https://buzzheavier.com/qub4ef8n06i4
+https://pixeldrain.com/u/NULvi3Ka
+https://1fichier.com/?hbfoj6ib7bu9n8yvfq1k&af=1951572
+
+Update 6.0.2 (Behind USD14.99 paywall),(if you are able to get hold of this, send it to me)
+https://rapidgator.net/file/aa3d986d389eb189f3e4072154b593dc/SPLTOON3-(USA)-NSwTcH-NSP-Update602-Ziperto.rar.html
+
+Update 6.0.1
+https://pixeldrain.com/l/QuPcARJL#item=0
+
+Update 5.0.1 (Behind USD14.99 paywall),(if you are able to get hold of this, send it to me)
+https://rapidgator.net/file/67b1cfcf762d4390781fe2f3d314adda/SPLTOON3-(USA)-NSwTcH-NSP-Update501-Ziperto.rar.html
+
+Update 5.2.0
+https://pixeldrain.com/l/QuPcARJL#item=1
+
+Update 5.0.1
+https://pixeldrain.com/l/QuPcARJL#item=2
+
+
+
+## Splatoon 2
+https://pixeldrain.com/u/LmaS9aqi - BaseGame
+https://pixeldrain.com/u/2Y3N2c4i - Update 5.5.1
+
+
+## Kirby and the forgotten land:
+https://gofile.io/d/1sC66z
+https://pixeldrain.com/u/EHk6Yr2x
+
+Kirby star allies
+https://pixeldrain.com/u/3mSNHWzs
+Update 4.0.0:
+https://pixeldrain.com/u/9zatBfmY
+
+Kirby dream buffet
+https://pixeldrain.com/u/CZzGYLw4
+
+Kirby return to dreamland deluxe
+https://pixeldrain.com/u/MeJVQ1xu
+
+Kirby air riders:
+Switch 2 Exclusive game. Nobody manages to hack the console, get the game, and play it on their emulator. Don’t google for it, you will only get viruses.
+
+Metroid Dread
+https://pixeldrain.com/u/J4rpSRZq
+
+tomodachi life living the dream, new mii game
+http://gofile.io/d/2X0hAdTN
+https://pixeldrain.com/u/7hdoq33Y
+
+Requires this version of ryujinx: (canary 269)
+https://mega.nz/file/UV0C2LIS#8Vm1RyRPeBOxlVig-K7wmZxaL-Ln9T0KxQGPmvUcyWg
+
+Pikmin 4:
+
+https://rootz.so/d/1tRimu
+https://vikingfile.com/f/1KlcnEG9Tj
+
+Mediafire - ask me
+Drive - ask me
+
+Rhythm Heaven Groove:
+https://gofile.io/d/MEtXcSA1 - Link 1
+https://pixeldrain.com/u/H3rTD3ry - Link 2
+
+Demo (expires 3 months after last person visits website):
+https://gofile.io/d/6dJreL
+https://pixeldrain.com/u/DTvLUAY7
+
+South park - the fractured but whole
+
+https://gofile.io/d/QlZOss
+
+
+Unicorn Overlord: (use msedge + ublock origin)
+
+Basegame:
+https://megaup.net/7ujoz/UNICOVRLORD-(USA)-NSwTcH-%5BBASE%5D-NSP-Ziperto.rar
+
+Update (1.05):
+https://megaup.net/8c94ead6f6596bc5103b8a54e9d8481c/UNICOVRLORD-(USA)-NSwTcH-NSP-Update105-Ziperto.rar
+
+2 DLC:
+https://megaup.net/7upxg/UNICOVRLORD-(USA)-NSwTcH-NSP-%5B2DLCPack%5D-Ziperto.rar
+
+Digital artbook and soundtrack:
+https://megaup.net/7us4t/UNICOVRLORD-(USA)-NSwTcH-%5BDIGARTNSOUND%5D-NSP-Ziperto.rar
+
+
+## Devil men cry 3 special edition
+
+https://pixeldrain.com/u/GUQoFY2A - BaseGame
+https://pixeldrain.com/u/Xw2bFfQU - Update 1.0.1
+
+## Donkey Kong country tropical freeze
+
+https://pixeldrain.com/u/k4RNMZ72 - BaseGame
+https://pixeldrain.com/u/HTwJunNj - Update 1.0.2
+
+https://pixeldrain.com/u/DpdxTksq Miitopia BaseGame
+https://pixeldrain.com/u/eoWcazue Miitopia Update 1.0.3
+
+https://pixeldrain.com/l/Lp5M57Lw All 2 files
+
+
+https://pixeldrain.com/u/q88ULd2R Fire Emblem Three Houses (NSP)(6 DLCs).rar (for basegame as well as nsp, use nxbrew, ctrl + f and search for this site for instructions to connect if you can't connect)
+
+https://pixeldrain.com/l/4zoemMWV All 2 files
+
+https://pixeldrain.com/u/YApGvr3w Shin Megami Tensei V [010063B012DC6000][v0][US].nsp
+https://pixeldrain.com/u/NdvsEDYV Shin Megami Tensei V (Update 1.0.2)[010063B012DC6800][v131072][US].nsp
+https://pixeldrain.com/u/KpJZj7D9 SHIN MEGAMI TENSEI V [DLC][US] NSP.zip
+
+https://pixeldrain.com/l/VuZqAV84 All 3 files
+
+
+https://pixeldrain.com/u/SUb1vG7a Monster Hunter Generations Ultimate (NSP)(US)(Base Games).part1.rar
+https://pixeldrain.com/u/n3E5GYMZ Monster Hunter Generations Ultimate (NSP)(US)(Base Games).part2.rar
+https://pixeldrain.com/u/GT4PJYe9 Monster Hunter Generations Ultimate (NSP)(US)(Base Games).part3.rar
+https://pixeldrain.com/u/KH6VoqGp Monster Hunter Generations Ultimate (NSP)(US)(Update 1.4.0).rar
+
+https://pixeldrain.com/l/C2JU7VuT All 4 files
+
+
+https://pixeldrain.com/u/ZEHAehpd Yo-kai Watch 4 PuraPura (XCI).part1.rar
+https://pixeldrain.com/u/PkKgfHdt Yo-kai Watch 4 PuraPura (XCI).part2.rar
+https://pixeldrain.com/u/DspXmwVF Yo-kai Watch 4 PuraPura (NSP)(Update 2.2.0).rar
+https://pixeldrain.com/u/WL2VCNQh Yo-kai Watch 4 PuraPura (NSP)(13 DLCs).rar
+
+Full BaseGame: no parts
+https://pixeldrain.com/u/r9C68UKT Yo-kai Watch 4 PuraPura [010086C00AF7C000].xci
+
+https://pixeldrain.com/l/ftkrm9fn All 5 files
+
+
+Doom (2016)
+https://gofile.io/d/9DNqT68a
+(If link dies, remove it)
+
+
+Old Minecraft for Nintendo Switch Edition (with elytra levels)
+https://pixeldrain.com/u/iXYbSAqe BaseGame
+https://pixeldrain.com/u/78vaNSXd Update 1.0.17
+
+the Plucky squaie - switch2xci (for hacked switches, i can't figure out how to run them in an emulator, they will not boot. (missing keys and fw despite being the latest.)
+https://pixeldrain.com/u/prNYqMZW - part 1
+https://pixeldrain.com/u/DUH156tW - part 2
+https://pixeldrain.com/u/pWGkbXFE - part 3
+
+https://pd.cybar.xyz/prNYqMZW - part 1
+https://pd.cybar.xyz/DUH156tW - part 2
+https://pd.cybar.xyz/pWGkbXFE - part 3
+
+https://pixeldrain.com/u/r9W9Ywiq - part 1
+https://pixeldrain.com/u/8LQCgK4z - part 2
+https://pixeldrain.com/u/XMLr4PqU - part 3
+https://pixeldrain.com/u/QqhJpXnN - part 4
+https://pixeldrain.com/u/6jShJPd7 - part 5
+https://pixeldrain.com/u/XsBhgbyf - part 6
+https://scnlog.me/games/the_plucky_squire_nsw-venom/ - source (I used the mirrorace links)
+
+https://pd.cybar.xyz/r9W9Ywiq - part 1
+https://pd.cybar.xyz/8LQCgK4z - part 2
+https://pd.cybar.xyz/XMLr4PqU - part 3
+https://pd.cybar.xyz/QqhJpXnN - part 4
+https://pd.cybar.xyz/6jShJPd7 - part 5
+https://pd.cybar.xyz/XsBhgbyf - part 6
+https://scnlog.me/games/the_plucky_squire_nsw-venom/ - source (I used the mirrorace links)
+
+
+Animal well
+PC/steam:
+https://pixeldrain.com/u/WwZK74ii
+The password for the zip should be "cs.rin.ru" without the quotation marks, it's the standard password for uploads there. You will need 7zip o winrar to unzip it
+Got this from cs.rin.ru
+
+Hacked switch:
+Basegame:
+https://pixeldrain.com/u/2j1ER5Tw
+
+Storyteller (hacked switch/android):
+https://pixeldrain.com/u/DXBXPzYJ
+
+Update v1.0.1:
+https://pixeldrain.com/u/q2jsYFx2
+
+Five nights at Freddy's: into the pit (Hacked switch)
+From:
+https://www.reddit.com/r/SWITCH2XCI/s/T7FkQWS4sI
+
+fnaf into the pit beta build
+(If i remember correctly, chapter 4 is where the game softlocks because of a glitch/missing asset, so the dev build is normally impossible to beat. It may be possible to beat if you enable the dev menu and such though? )
+https://drive.google.com/file/d/1mP5quJqR6KVaB20FnjCqGpuU61tBdbs7/view?usp=drive_link
+
+## Just crow things (hacked switch, android)
+https://www.nintendo.com/us/store/products/just-crow-things-switch/
+
+##Kero Blaster:
+
+PC/steam: 
+https://store.steampowered.com/app/292500/Kero_Blaster/
+
+https://cdn.discordapp.com/attachments/1180366033853354024/1181920170587979818/Kero.Blaster.v1.50.zip?ex=6582cfef&is=65705aef&hm=7e7dc3d83b72a6832b134f406b1bc33780f4cd23003412fbf31ca3bc70412f7a&
+
+Switch:
+https://www.nintendo.com/us/store/products/kero-blaster-switch/
+
+BaseGame: 
+https://cdn.discordapp.com/attachments/1180366033853354024/1181879156024279080/KeroBlaster_0100DA200A09A000v0Base.nsp?ex=6582a9bd&is=657034bd&hm=ee13f2e8667b23a7830a237d6f48acf46f4947805e839245493b00408d1adf54&
+
+Update:
+https://cdn.discordapp.com/attachments/1180366033853354024/1181879156309508166/KeroBlaster_0100DA200A09A800v65536Update.nsp?ex=6582a9bd&is=657034bd&hm=59638bfa6393e510f3640c782aeeaa775cc8c74ffe0ec64c57d5fb89adec3cd7&
+(Paste discord links into your discord server/DMs in order for it to work again)
+
+
+get more roms from ziperto.com nxbrew.com as well as nsw2u.com!!
+use uBlock origin before using those sites! to block ads there!
+
+
+
+Emulators:
+
+Yuzu:
+Yuzu mainline windows(?)
+https://www.reddit.com/r/yuzu/comments/1b6lyy3/grab_it/
+
+yuzu-Mainline windows-1687
+Let me know if it dosn't work
+https://pixeldrain.com/u/aMEPGmBL
+
+Yuzu windows mainline 1721
+https://pixeldrain.com/u/8ERKtMKu
+
+yuzu mainline windows build: 1728 https://pixeldrain.com/u/jC4g9K9V
+
+Mainline 1733 windows 
+https://pixeldrain.com/u/pKt7ANHa
+
+Yuzu EA 3599 Windows
+https://pixeldrain.com/u/Z2Qbh2DT
+
+Search telegram for "yuzu ea 4176" for Yuzu EA 4176
+
+Desperate for yuzu?:
+https://drive.google.com/file/d/1fs_BrivX9yXIfOKAzGGhTzTVPs20cpv6/view
+https://www.reddit.com/r/yuzu/s/gbuhz3f60y
+
+
+Suyu (win, linux, android)
+https://git.suyu.dev/suyu/suyu
+
+Sudachi (win, linux, android)
+https://sudachi.emuplace.app/ 
+Sudachi apk 
+https://www.reddit.com/r/yuzu/s/alAYN1OFz1
+https://www.mediafire.com/file/ipahsu1uj6ee2ot/sudachi-ea-release.apk/file
+https://pixeldrain.com/u/xx4xzZp8
+
+Citron (Recommend for games released after princess peach showtime)
+
+(Citron Backup links)
+https://pixeldrain.com/u/RhhUS7Bf - Citron master-51800e249 Windows, includes keys and 19.0.1 firmware 
+https://www.emucr.com/2025/03/citron-canary-refresh-v061.html?m=1 - another mirror 
+
+Ryubing is the successor to ryujinx
+https://github.com/Ryubing/
+
+Backup Website:
+https://git.ryujinx.app/ryubing/ryujinx
+
+
+
+Archived ryujinx forks:
+https://ryujinx-emulator.com/ (Might not work, idk)
+https://github.com/SylveonDeko/Kaijinix (Source code only)
+https://pixeldrain.com/u/PSUjgDdU - android apk
+
+Citron:
+https://git.citron-emu.org/Citron/Citron
+
+
+
+Keys (19.0.1)
+https://prodkeys.net/yuzu-prod-keys-n14/
+ 
+Firmware 19.0.1
+https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip
+
+(Found these from Google, lol)
+
+
+
+Firmware:
+15.0.0 firmware for ryujinx (works for wonders) https://pixeldrain.com/u/UmNW3oYh
+(also for selecting a mii/main menu fix for mk8 on yuzu)
+
+16.0.3 firmware: https://pixeldrain.com/u/dQhQUuA4
+
+All firmwares:
+https://github.com/THZoria/NX_Firmware/releases
+
+Yuzu mods
+https://github.com/yuzu-mirror/yuzu-mod-archive?tab=readme-ov-file
+https://github.com/theboy181/switch-ptchtxt-mods
+https://github.com/StevensND/switch-port-mods
+
+Super Mario party jamboree mods
+https://www.reddit.com/r/yuzu/s/Mq0DGS1itE
+
+
+## The Legend of Zelda: Echoes of Wisdom Stabilize FPS mod
+
+https://qiwi.gg/file/s5Rt8519-TheLegendofZeldaEchoesofWisdom01008CF01BAAC800mods
+
+Dowload it here: The Legend of Zelda Echoes of Wisdom [01008CF01BAAC800][mods]
+
+Stabilize FPS Potato Version helps users with low-end hardware, including devices like the Steam Deck and Nintendo Switch without overclock, achieve higher FPS without the need for overclocking, this version caps the resolution to 1024x576, can't be used with 1080p mod.
+Stabilize FPS Normal Version helps more powerful rigs achieve a smoother and more stable FPS, can be used with resolution mods.
+
+If you want to achieve a solid 60FPS experience, overclock your hardware.
+
+Yuzu - Right click the game and select "Open Mod Data Location" and extract the .zip there
+
+Ryujinx - Right click the game and select "Open Mods Directory" and extract the .zip there
+
+Switch - Convert it to IPS and put the files on atmosphere/exefs_patches/*MOD NAME*/xxx.ips
+
+All the mods are free, but if you like my work, please consider supporting me. Have fun!
+
+fl4sh_#9174
+https://Ko-fi.com/Fl4sh9174
+
+EDIT: fixed the link with the correct mods.
+
+
+## The Legend of Zelda Echoes of Wisdom [01008CF01BAAC000] Mods for v1.0.1 Update.
+
+https://qiwi.gg/file/s5Rt8519-TheLegendofZeldaEchoesofWisdom01008CF01BAAC800mods
+
+1920x1080
+Remove DOF
+Remove Blur
+Reduce Bloom
+Remove Bloom
+Level of Detail
+2K Shadow Resolution
+2580x1080 Ultrawide
+16:10 For Steam Deck
+21:9 Adjusted HUD
+20:9 Adjusted HUD
+32:9 Adjusted HUD
+
+Yuzu - Right click the game and select "Open Mod Data Location" and extract the .zip there
+
+Ryujinx - Right click the game and select "Open Mods Directory" and extract the .zip there
+
+Switch - Convert it to IPS and put the files on atmosphere/exefs_patches/*MOD NAME*/xxx.ips
+
+EDIT: updated the zip with some mods and IPS files.
+
+All the mods are free, but if you like my work, please consider supporting me. Have fun!
+
+@Fl4sh_#9174
+
+https://ko-fi.com/Post/The-Legend-of-Zelda-Echoes-of-Wisdom-01008CF01BA-O5O713VNK1
+
+https://imgur.com/a/xTOUspG
+
+
+## Super Mario Party Jamboree [0100965017338000] Mods for v1.1.0 Update.
+
+1080p/2K/4K/8K Resolution
+2K/4K/8K Shadow Resolution
+Remove DOF
+Level of Detail
+21:9 Adjusted HUD
+21:9 Default HUD
+Disable Dynamic Resolution
+Disable FXAA
+
+Sudachi is the recommended emulator for this game.
+
+How to install the mods:
+
+Sudachi - Right click the game and select "Open Mod Data Location" and extract the .zip there
+
+Ryujinx - Right click the game and select "Open Mods Directory" and extract the .zip there
+
+Switch - Convert it to IPS and put the files on atmosphere/exefs_patches/*MOD NAME*/xxx.ips
+
+High resolution pics 
+https://www.reddit.com/r/yuzu/s/gX08c9su8p
+
+All the mods are free, but if you like my work, please consider supporting me. Have fun!
+
+Fl4sh_#9174
+
+https://ko-fi.com/post/Super-Mario-Party-Jamboree-0100965017338000-Mods-J3J614UKLW
+
+
+
+Blocking Nintendo servers
+https://rentry.org/AvoidSwitchBan
+
+
+Mig switch collection: official and only site that I can find for mig switch)
+https://rutracker.net/forum/viewtopic.php?t=6516789 (1125 Games (6.746 TB) as of 4 Jan 2026)
+It’s in Russian but if you scroll down a bit you will see a magnet icon and 4.895 TB that’s the magnet link for the torrent. Just select whatever you want.
+
+6.746 TB Version
+magnet:?xt=urn:btih:D9BA79D29C7B34130F02E75AE80C61D95E67879C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=%5BNintendo%20Switch%5D%20MIG%20Switch%20Game%20Collection%3A%20%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%20%D0%B8%D0%B7%201125%20%D0%B8%D0%B3%D1%80%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%BB%D0%B5%D1%88-%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B0%20MIG%20Switch%20%5BXCI%2BBIN%5D%5BRUS%2FMulti%5D
+
+☝️ The above gets updated all the time and is like 5TB with more than 200 games then below 👇 
+
+magnet:?xt=urn:btih:FEC1A2FFDEB34DB038B06FA7CBCF334461AE28D5&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=%5BNintendo%20Switch%5D%20MIG%20Switch%20Game%20Collection%3A%20%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%20%D0%B8%D0%B7%20733%20%D0%B8%D0%B3%D1%80%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%BB%D0%B5%D1%88-%D0%BA%D0%B0%D1%80%D1%82%D1%80%D0%B8%D0%B4%D0%B6%D0%B0%20MIG%20Switch%20%5BXCI%2BBIN%5D%5BRUS%2FMulti%5D
+
+gamefreak 2024 gigaleak
+magnet:?xt=urn:btih:15ff2c6b59f7b2e31f4b70b6608426b0b64bbe59&dn=Gamefreak+Teraleak_Updated+26.10.2024&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
+(for magent links, download qBitTorrent, copy paste magent link into qBitTorrent, select location to install, download)
+
+steam games:
+storymode
+Minecraft story mode (PC i think)
+https://pixeldrain.com/u/KakotTsV season 1
+https://pixeldrain.com/u/tdXsU3Zg season 2
+
+Minecraft Dungeons (PC) (Fitgirlrepack extracted):
+https://pixeldrain.com/u/h8HHTpxi
+
+Minecraft Dungeons (For Hacked switch):
+https://pixeldrain.com/l/x9c1cok7
+
+Update 1.17.00
+https://pixeldrain.com/u/kwrRbrRs
+
+7 DLCs
+https://mega.nz/file/kMl0jbzL#jhnibS_OewVqabAxjdvhizTR_JjVMcM1TlTpVrN07KY
+
+nsw releases and rom site:
+https://scnlog.me/games/nsw/
+
+Even more free stuff!
+adobe Creative cloud suite apps for windows (+1hr read, few days to Memorie everything)
+https://wiki.dbzer0.com/genp-guides/
+
+Autodesk maya: https://gofile.io/d/7FjUqc
+https://gofile.io/d/I1np0m
+
+Mac: https://www.mediafire.com/file/u1dx33qvnydb8sl/Autodesk+Maya+2027+macOS+WhiteDeath.dmg/file
+
+Active Microsoft Windows without a licence key:
+https://massgrave.dev/
+
+steamrip for steam games
+yts.mx for downloading movies (via torrent)
+456movies for streaming movies
+
+Source: r/fmhy r/piracy megathread, 
+
+r/roms megathread for older / classic nintendo games, Gameboy, NES, etc.
+
+if links go down, email me at liangforstudy@gmail.com or dm bluetails12 on discord https://discord.gg/N2EG4CpyPq
+
+Changes:
+
+Totk guide for low end PCs 
+https://www.reddit.com/r/yuzu/s/mNp1kK25hZ
+
+New super Mario bros Wii rom iso
+https://cdn.discordapp.com/attachments/1152614721766309938/1321263643421048832/New_Super_Mario_Bros_Wii_SMNE01.wbfs?ex=6771e028&is=67708ea8&hm=3ac72a2d06e9f70185dd0f6beb929da126d1bb8f97097400db90ab9d7ee04d36&
+
+the fact that theres 3 (in development) 3ds emulators
+https://github.com/mikage-emu/mikage-dev
+https://github.com/wheremyfoodat/Panda3DS
+https://github.com/azahar-emu/azahar
+
+Good Job! Nsp rom
+https://cdn.discordapp.com/attachments/1180366033853354024/1323689013256917125/Good_Job__0100B0500FE4E000NXBrew.nsp?ex=67756cf5&is=67741b75&hm=e528cdb9037c76b31f63336cc7b98cd273833d487c6daa494d093c678a8c18de&
+
+Bravely default II
+https://1fichier.com/?wtm2s13w3g5x5v995n78
+https://pixeldrain.com/u/LHHp1jGY
+
+Old Minecraft for Nintendo Switch Edition (with elytra levels) (published by 4j studios) (Not the "terrible" bedrock version!!)
+https://pixeldrain.com/u/iXYbSAqe BaseGame
+https://pixeldrain.com/u/78vaNSXd Update 1.0.17
+
+Pokken Tournament DX
+https://pixeldrain.com/u/S1LiWHYz BaseGame
+https://pixeldrain.com/u/wHMaaXu2 Update 1.3.3
+
+Hades
+https://pixeldrain.com/l/BxxUS94c
+
+Mario strikers battle league
+https://pixeldrain.com/l/fhdYoAqR
+
+FANTASIAN Neo Dimension:
+https://pixeldrain.com/l/NBvTNvNK
+
+Children of Morta:
+https://pixeldrain.com/l/UX26QHUu
+
+Mary Skelter 2:
+https://pixeldrain.com/l/Qu9gkvoT
+
+Zelda echoes .xci (use Sudachi / ryujinx)
+https://gofile.io/d/b1CBz4
+https://pixeldrain.com/u/FzLT9Y1B
+
+Persona 5 Royal 
+https://gofile.io/d/udtHmHt2 - nsp - Link 1
+https://pixeldrain.com/u/7NiAYFgU - nsp - Link 2
+
+
+https://pixeldrain.com/u/zfPEwY54 - Monster hunter generations ultimate BaseGame
+https://pixeldrain.com/u/8oSqF6rm - Monster hunter rise Basegame 
+https://pixeldrain.com/u/y2uitUWN - Monster hunter rise sunbreak (update 16.0.1 for monster hunter rise) 
+
+https://pixeldrain.com/u/rqFmUGZ6 - pokemon sword save file for keyboard fix (English save)
+
+https://pixeldrain.com/u/kQZb7tzT - Pokemon Sword XCI
+https://pixeldrain.com/u/pjX9adkf - Pokemon Sword (Update 1.3.2)
+
+Super smash bros ultimate:
+https://pixeldrain.com/u/ZbxLr8NR - BaseGame
+https://pixeldrain.com/u/EC3TLrBz - Update 13.0.3
+https://pixeldrain.com/u/GouR9uFz - 99 Updated DLCs
+
+https://pixeldrain.com/u/kpECeMxq - Update 13.0.2
+
+Xenoblade Chronicles X Definitive Edition .xci
+https://pixeldrain.com/u/rv66dXfa
+
+mortal Kombat Update 1.3.0
+https://gofile.io/d/H1gD2S
+
+Hollow knight - basegame
+https://mega.nz/file/DYph1QaA#JBZVVh3bXKaQAiTvl_dBUh2Q0qw2SzVOh1JjXbTUpi8
+
+
+
+Keys (19.0.1)
+https://prodkeys.net/yuzu-prod-keys-n14/
+ 
+Firmware 19.0.1
+https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip
+
+(Found these from Google, lol)
+
+Files for _WiiWare, VC, DLC, Channels & IOS
+https://archive.org/download/MarioCubeLite/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20Channels%20%26%20IOS/
+
+PS1, 2 , 3 pkg, 4 fpkg download
+
+https://discord.gg/N2EG4CpyPq
+
+Even more free stuff!! 
+https://rentry.co/switchpiracy
+
+!!!Use uBlock origin before accessing these sites to block ads and viruses!!!
+(Read lines 12-13 if websites are blocked in your country
+
+Guide on how to download roms from the websites below: 
+https://docs.google.com/document/d/1-6WlJI1G9-PX8O0mkAsZVH7HWQlNO2qe_VQdEThnoVc/edit?usp=drivesdk
+
+Personally, I use:
+gofile > mega > Pixeldrain > Megaup > data nodes /Sendcm > 1flicher > rapidgator
+
+https://nswpedia.com/download/pokemon-legends-z-a-58-47746
+https://romslab.com/category/switch-games
+https://romsim.com/
+https://taodung.com/
+https://switchrom.net/
+https://switchrom.io/
+https://switchgamesmall.icu/
+https://eggnsemulator.com/nintendo-switch-roms/
+https://romheaven.com/switch
+https://not.ultranx.ru/en
+https://scnlog.me/games/nsw
+https://Nxbrew.net/ (I used this)
+https://ziperto.com/ (I used this)
+https://nswtl.info/ (Torrent)
+https://discord.gg/N2EG4CpyPq (ssh, don’t tell anyone!)
+
+
+https://knaben.org/
