@@ -1,61 +1,87 @@
-How to use the pastebin:
+JAK KORZYSTAĆ Z TEGO DOKUMENTU
 
-ctrl + f this document if you want to find something in here. (Android: https://pixeldrain.com/u/TkTAhZnG)
+Naciśnij Ctrl + F, aby znaleźć konkretną rzecz w tym dokumencie.
+Na Androidzie możesz skorzystać z tego linku:
+https://pixeldrain.com/u/TkTAhZnG
 
-Or 
+Możesz też:
+1. Przewinąć dokument na sam dół i kliknąć przycisk kopiowania obok „raw paste data”.
+2. Otworzyć Microsoft Word lub Dokumenty Google.
+3. Nacisnąć Ctrl + V albo kliknąć prawym przyciskiem myszy i wybrać „Wklej”.
 
-Scroll all the way down, Click the copy button right next to the “raw paste data”
-Open either Microsoft word or Google docs
-Ctrl + V or right click, paste it in
+Wszystkie linki powinny teraz być niebieskie.
+Ctrl + F działa również w Dokumentach Google i Microsoft Word.
 
-All links should become blue now :) 
-Ctrl + f works in Google docs / Microsoft word
+Jeśli znajomy nie może otworzyć tego dokumentu, możliwe, że jego program antywirusowy, VPN lub dostawca internetu blokuje tę stronę.
 
+DAROWIZNY
 
-If your friend can’t assess this pastebin, their antivirus / VPN / isp is blocking this pastebin.
+Portfele kryptowalutowe:
+Solana (SOL):
+7DM4WeNxErBecNdjMWesKyTcAdjYRJ6F3JB6HUjq64mDj
 
-My donation box:
-Tanyuliang9@gmail.com on PayPal
+Base (ETH / tokeny sieci Base):
+0xC10ccB69207739bAEbDEFECb56A3FF27e93421eE
 
-Other rom sites:
+Inne strony z ROM-ami:
 https://fmhy.net/gaming#rom-sites
 
-gba games:
+Gry na Game Boy Advance:
 https://gofile.io/d/WfkYJi
 
-Emulator setup tutorial: 
+Poradnik konfiguracji emulatora:
+zmienić na link do filmu!!!
 
-https://m.youtube.com/playlist?list=PL-CtCy9zQOPb1Ps4_nC000CdafPCQlcEk
+Przewiń dokument na sam dół, aby znaleźć więcej stron dotyczących Nintendo Switch.
 
-https://docs.google.com/document/d/10Jjn4G46mOh5bd56xFCVuEJZ5Qc5LA_pTqnDmwzGttg/
+Jeśli dostępne są linki gofile.io, autor poleca z nich korzystać, ponieważ pobieranie może być szybsze i nie obowiązuje tam taki sam limit 6 GB jak w Pixeldrain. Nie wszystkie gry mają jednak linki gofile.io. Niektóre mogą szybko wygasać. Jeśli gofile.io jest blokowane przez konfigurację VPN lub Kaspersky, można spróbować Pixeldrain.
 
-Scroll all the way to the bottom for more switch sites that contain switch roms!
+Obejście ograniczeń Pixeldrain:
+Według autora opisane metody mogą działać tylko dla pierwszych 5 GB.
 
-I recommend clicking on the gofile.io links if available, as they have way faster downloads and also no stupid 6GB limit that pixeldrain imposes. (I mean, you came here not to hoard everything in here without giving anything back, right? (As a free Google drive folder)) also, not all games have gofile.io links as those games have less demand then the ones with gofile links, so they expire quickly)(I know that some vpn configurations and kaspersky keeps blocking gofile.io so use pixeldrain
+Można użyć skryptu:
+https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass
 
-let me know on liangforstudy@gmail.com if you still need help/report broken links
+Można też zamienić:
+https://pixeldrain.com/u/
+na:
+https://pd.cybar.xyz/
 
-Pixeldrain bypass (they seem to work for the first 5GB only...)
-either use https://greasyfork.org/en/scripts/491326-pixeldrain-download-bypass script or change https://pixeldrain.com/u/ to https://pd.cybar.xyz/
-how it works is it uses pixeldrain's servers directly
-the limit bypass is based on pixeldrain.com
-while the downloads are on cdn.pd7.workers.dev/api/file
+Opis działania:
+Metoda korzysta bezpośrednio z serwerów Pixeldrain. Ograniczenie dotyczy Pixeldrain.com, natomiast pobieranie odbywa się z:
+cdn.pd7.workers.dev/api/file
+
+Dodatkowa strona:
 https://pixeldrain-bypass.cybar.xyz/
 
-## 404 website not found/can't connect:
-If you see this pastebin for the first time, and the Pixeldrain links are down, it's very likely your government blocked Pixeldrain. (e.g. Italy, Spain, India, Philippines) 
-If that's the case or if you are unsure, check out this guide if you are affected and how to fix it. https://www.reddit.com/r/PixelDrain/comments/pu5ctt/accessing_pixeldrain_if_it_is_blocked_in_your/
+BŁĄD 404 — NIE ZNALEZIONO STRONY / NIE MOŻNA SIĘ POŁĄCZYĆ
 
-Alternatively, you can use a VPN like Proton VPN to access Pixeldrain links. https://protonvpn.com/ (You will need to create an Account first)
+Jeśli otwierasz ten dokument po raz pierwszy, a linki Pixeldrain nie działają, możliwe, że dostęp do Pixeldrain został zablokowany w Twoim kraju.
+
+W takim przypadku sprawdź ten poradnik:
+https://www.reddit.com/r/PixelDrain/comments/pu5ctt/accessing_pixeldrain_if_it_is_blocked_in_your/
+
+Możesz też użyć VPN, np. Proton VPN:
+https://protonvpn.com/
+Korzystanie z usługi wymaga wcześniejszego utworzenia konta.
+
+JAK ROPAKOWAĆ PLIKI PODZIELONE NA CZĘŚCI
+
+1. Zainstaluj program WinRAR.
+2. Pobierz wszystkie części archiwum.
+
+Windows 10:
+Kliknij prawym przyciskiem myszy pierwszą część archiwum i wybierz „Wypakuj tutaj”.
+
+Windows 11:
+Kliknij prawym przyciskiem myszy pierwszą część archiwum, wybierz „Pokaż więcej opcji”, a następnie „Wypakuj tutaj”.
+
+UWAGA
+To jest przetłumaczony wstęp dokumentu. Nazwy gier, wersje, identyfikatory plików i linki należy pozostawiać bez zmian.
 
 
-### how to do part files:
-- install WinRAR (Google it, don't be lazy)
-- Download all parts, 
-### For windows 10: 
-(right click the first part file --> extract here) 
-### For Windows 11:
-(right click the first part file --> show more options --> extract here)
+
+---------------------------------------------------------------------------------------------------------
 
 
 
@@ -1196,7 +1222,6 @@ https://archive.org/download/MarioCubeLite/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20C
 
 PS1, 2 , 3 pkg, 4 fpkg download
 
-https://discord.gg/N2EG4CpyPq
 
 Even more free stuff!! 
 https://rentry.co/switchpiracy
